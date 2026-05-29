@@ -89,11 +89,11 @@ module.exports = {
             items: [
               {text: 'Arbol', link : '/case-studies/arbol/'},
               {text: 'Audius', link : '/case-studies/audius'},
-              {text: 'Fleek', link : '/case-studies/fleek'},
               {text: 'LikeCoin', link : '/case-studies/likecoin'},
               {text: 'Morpheus.Network', link : '/case-studies/morpheus'},
               {text: 'ORCESTRA', link : '/case-studies/orcestra'},
               {text: 'Snapshot',link : '/case-studies/snapshot'},
+              {text: 'Vereign', link : '/case-studies/vereign'},
             ]
           }
         ],
@@ -402,10 +402,11 @@ module.exports = {
               children: [
                 ['/case-studies/arbol', 'Arbol'],
                 ['/case-studies/audius', 'Audius'],
-                ['/case-studies/fleek', 'Fleek'],
+                ['/case-studies/orcestra', 'ORCESTRA'],
                 ['/case-studies/likecoin', 'LikeCoin'],
                 ['/case-studies/morpheus', 'Morpheus.Network'],
-                ['/case-studies/snapshot', 'Snapshot']
+                ['/case-studies/snapshot', 'Snapshot'],
+                ['/case-studies/vereign', 'Vereign']
               ]
             }
           ],
@@ -422,10 +423,10 @@ module.exports = {
                 ['/case-studies/arbol', 'Arbol'],
                 ['/case-studies/audius', 'Audius'],
                 ['/case-studies/orcestra', 'ORCESTRA'],
-                ['/case-studies/fleek', 'Fleek'],
                 ['/case-studies/likecoin', 'LikeCoin'],
                 ['/case-studies/morpheus', 'Morpheus.Network'],
-                ['/case-studies/snapshot', 'Snapshot']
+                ['/case-studies/snapshot', 'Snapshot'],
+                ['/case-studies/vereign', 'Vereign']
               ]
             },
             ['/concepts/glossary', 'Glossary'],
