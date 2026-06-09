@@ -293,6 +293,7 @@ module.exports = {
               collapsable: true,
               children: [
                 '/how-to/gateway-best-practices',
+                '/how-to/replace-public-gateways-with-self-hosted-ipfs',
                 '/how-to/troubleshooting',
               ]
             },
