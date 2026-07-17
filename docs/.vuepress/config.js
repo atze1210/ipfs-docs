@@ -303,8 +303,7 @@ module.exports = {
               collapsable: true,
               children: [
                 '/how-to/companion-node-types',
-                '/how-to/dnslink-companion',
-                '/how-to/companion-window-ipfs'
+                '/how-to/dnslink-companion'
               ]
             },
             {
