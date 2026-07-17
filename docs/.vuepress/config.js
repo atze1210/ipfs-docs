@@ -304,8 +304,7 @@ module.exports = {
               children: [
                 '/how-to/companion-node-types',
                 '/how-to/dnslink-companion',
-                '/how-to/companion-window-ipfs',
-                '/how-to/companion-x-ipfs-path-header'
+                '/how-to/companion-window-ipfs'
               ]
             },
             {

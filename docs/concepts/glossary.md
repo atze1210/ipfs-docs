@@ -568,6 +568,10 @@ WebTransport is a new specification that uses QUIC to offer an alternative to [W
 
 ## X
 
+### x-ipfs-path
+
+`x-ipfs-path` is an HTTP response header that some IPFS [gateways](#gateway) add to tell clients the IPFS path of the content they returned. It is an older way to detect IPFS content over HTTP, from before the [gateway URL conventions](https://specs.ipfs.tech/http-gateways/) and [DNSLink](#dnslink) used today. Those have superseded it, so it is no longer needed for addressing. [HTTP Gateway specifications](https://specs.ipfs.tech/http-gateways/) | [Addressing IPFS on the web](../how-to/address-ipfs-on-web.md)
+
 ## Y
 
 ### Yamux

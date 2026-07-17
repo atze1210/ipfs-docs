@@ -44,10 +44,6 @@ IPFS Companion detects DNSLink info in the DNS records of websites. DNSLink is a
 > `http://docs.ipfs.tech`
 > → `http://localhost:8080/ipns/docs.ipfs.tech` → `http://docs.ipfs.tech.ipns.localhost:8080/`
 
-### Detect pages with `x-ipfs-path` headers
-
-IPFS Companion also upgrades transport to IPFS if it finds the `x-ipfs-path` in any HTTP response headers. This acts as a fallback for cases when an IPFS path is not present in the URL.
-
 ### Toggle redirects globally or per site
 
 You can disable and re-enable local gateway redirects in several ways:
